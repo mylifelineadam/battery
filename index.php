@@ -18,6 +18,9 @@
 	<div>All about that news.</div>
 </module-two>
 
+<module-three>
+	<div>Photo gallery</div>
+</module-three>
 
 
 </body>
