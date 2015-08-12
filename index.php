@@ -5,12 +5,19 @@
 </head>
 <body>
 
-<ul>
-	<li>Option 1</li>
-	<li>Option 2</li>
-	<li>Option 3 Everyone's Changes/li>
-	<li>Option 4 NEW</li>
-</ul>
+<module-one>
+	<ul>
+		<li>Option 1</li>
+		<li>Option 2</li>
+		<li>Option 3</li>
+		<li>Option 4</li>
+	</ul>
+</module-one>
+
+<module-two>
+	<div>All about that news.</div>
+</module-two>
+
 
 
 </body>
