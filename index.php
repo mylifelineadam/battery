@@ -8,7 +8,7 @@
 <ul>
 	<li>Option 1</li>
 	<li>Option 2</li>
-	<li>Option 3 Changed</li>
+	<li>Option 3 Everyone's Changes/li>
 	<li>Option 4 NEW</li>
 </ul>
 
